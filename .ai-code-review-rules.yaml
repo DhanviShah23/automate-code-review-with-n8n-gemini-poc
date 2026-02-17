@@ -1,0 +1,8 @@
+security:
+  - No plaintext secrets
+  - Avoid eval()
+style:
+  - camelCase variables
+  - Max 120 chars line length
+architecture:
+  - No business logic in controllers
