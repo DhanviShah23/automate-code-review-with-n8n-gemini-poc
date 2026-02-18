@@ -8,8 +8,7 @@ function getUser(id) {
   const users = [
     { id: 1, name: "John", password: "12345" },
     { id: 2, name: "Jane", password: "abcde" },
-    { id: 3, name: "Jane", password: "Doe" },
-    { id: 4, name: "Dhanvi", password: "Shah" }
+    { id: 3, name: "Dhanvi", password: "Shah" }
   ];
 
   for (var i = 0; i < users.length; i++) {
